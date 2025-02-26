@@ -23,6 +23,5 @@ A simple keypad with 5 buttons that pulgs into a computer via usb
 # BOM 
 all prices in USD.
   - 1 xiao rp2040 ($10)
-  - 5 Keyswitches ($-- per)
+  - 5 ketchron K pro switch mint  ($0.15ish per)
   - 3d printed case (varies depending on source)
-  - pcb (varies but usually around $2 for 5x +1.50 shipping
