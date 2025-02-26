@@ -2,8 +2,8 @@
 A simple keypad with 5 buttons that pulgs into a computer via usb
 
 #Parts
-  - Xiao rp2040 ($10)
-  - 5 cherry mx keyswitches (varies but $10 ish per)
+  - Xiao rp2040
+  - 5 cherry mx keyswitches
   - 3d printed case
 
 
@@ -18,3 +18,11 @@ A simple keypad with 5 buttons that pulgs into a computer via usb
 
 # Cad Model
 ![image](https://github.com/user-attachments/assets/d3c18917-43e5-4805-9996-8c84321cbfca)
+
+
+# BOM 
+all prices in USD.
+  - 1 xiao rp2040 ($10)
+  - 5 Keyswitches ($-- per)
+  - 3d printed case (varies depending on source)
+  - pcb (varies but usually around $2 for 5x +1.50 shipping
